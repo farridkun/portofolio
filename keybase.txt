@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/farridkun
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://farridkuntoro.me
+  * I am farridkun (https://keybase.io/farridkun) on keybase.
+  * I have a public key ASCBwzmZpyA18dOnBnvIUQvBirI3sclC46AXS84C2Zqm7Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120167298f16b39f2a2647dc37b75ba20027d546fe566c2c6569ff79a7e65f2c81f0a",
+      "host": "keybase.io",
+      "kid": "012081c33999a72035f1d3a7067bc8510bc18ab237b1c942e3a0174bce02d99aa6ed0a",
+      "uid": "778a439acc8f94238c754bd0f8ec3719",
+      "username": "farridkun"
+    },
+    "merkle_root": {
+      "ctime": 1568407265,
+      "hash": "3955e5a9cffd2236616a9b537a4d1198ffecc5049e731e8c5045e3b2755ef57b4a4197b00fd2233552fbb1b0e6b51a3b7844aa7dd734aa224cb5c492312e0685",
+      "hash_meta": "652963a9f4be3ab06d549f53cef7effe61abcb2800ac02340a4d303608a00ba1",
+      "seqno": 7211171
+    },
+    "service": {
+      "entropy": "oOV6b04cNvgK659zz3gpdhKg",
+      "hostname": "farridkuntoro.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568407289,
+  "expire_in": 504576000,
+  "prev": "6b32052d8a202caea8d354b0fa4e0ec2f18b94ed140387e78d79d3a974777f7f",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggcM5macgNfHTpwZ7yFELwYqyN7HJQuOgF0vOAtmapu0Kp3BheWxvYWTESpcCCsQgazIFLYogLK6o01Sw+k4OwvGLlO0UA4fnjXnTqXR3f3/EIMK4/Ccma4xeQVe9z8jMVLMTQickbIvC2u9PdBwkqSvAAgHCo3NpZ8RApIXSDqsYzrE+eEEnUg4CAY0pyBd50K8DzYbk6WQOyn7gpBnsndtjz8viCzuJxIWaowUFoN1WbIS5nwX9Xa7fA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBod6G13YiFw+MHvqgXsY+JXHxt4bC+CdLvNAr7cVCe5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/farridkun
+
+==================================================================
